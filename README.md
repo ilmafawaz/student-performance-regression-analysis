@@ -10,7 +10,7 @@ The Objective is to:
 * `StudentsPerformance.csv` – contains demographics and scores in math, reading, and writing
 * Target: `total_score` (sum of all subjects)
 
-**Technologies:**
+**Tools:**
 Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
 
 **Workflow:**
